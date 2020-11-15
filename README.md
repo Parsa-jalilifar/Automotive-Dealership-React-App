@@ -6,8 +6,7 @@ The web API will be posted to Heroku and Atlas, and provides the data for the Re
 The React app will use components to support the typical range of data service tasks (get, add, edit, delete). It will also be deployed to a public host (Heroku), so that you can deliver it to other devices (including, for example, your smartphone).
 
 #### React App Screenshots
-
-####Link to the website: https://a1-app.herokuapp.com/
+#### Link to the website: https://a1-app.herokuapp.com/
 
 <table>
   <tr>
