@@ -1,4 +1,4 @@
-# BTI425 Assignment 1
+# Automotive-Dealership-React-App
 
 The purpose or objective of the assignment is to create a React app that interacts with a web API.
 The web API will be posted to Heroku and Atlas, and provides the data for the React app.
