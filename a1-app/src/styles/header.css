@@ -1,0 +1,65 @@
+.main {
+  margin: 0px;
+  padding: 0px;
+  position: fixed;
+  z-index: 16;
+  background: black;
+}
+
+#logo {
+  width: 100%;
+  height: auto;
+  margin-top: -2px;
+}
+
+.header-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.nav-container {
+  background-color: #5e5e5e;
+  width: 500px;
+  margin: 20px auto;
+  border-radius: 50px;
+}
+
+.nav-container ul {
+  list-style: none;
+  text-align: center;
+  padding: 10px 0px;
+}
+
+.nav-item {
+  display: inline;
+}
+
+@font-face {
+  src: url(../fonts/Ambit-Bold.ttf);
+  font-family: "AAmbit-Bold.ttf";
+}
+.nav-container ul li {
+  width: 100px;
+}
+.nav-container ul li a {
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.nav-container ul li a:hover {
+  background-color: #333;
+  border-radius: 16px;
+  transition: 0.3s;
+}
+
+#last-nav {
+  display: inline;
+}
+
+@media screen and (max-width: 766px) {
+  .nav-container {
+    display: none;
+  }
+}

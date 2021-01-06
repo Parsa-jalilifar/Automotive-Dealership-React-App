@@ -1,0 +1,16 @@
+.back-icon {
+  font-size: 40px;
+  margin-top: 10px;
+}
+
+.icon-link {
+  color: white;
+  text-decoration: none;
+  list-style: none;
+}
+
+.icon-link:hover {
+  color: white;
+  text-decoration: none;
+  list-style: none;
+}
